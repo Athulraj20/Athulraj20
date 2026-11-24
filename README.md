@@ -1,5 +1,5 @@
 
-# Hi, I'm Athuulraj R 👋
+# Hi, I'm Athulraj R 👋
 
 **Aspiring Data Analyst | Power BI · SQL · Python · Excel · SAP FICO**
 
